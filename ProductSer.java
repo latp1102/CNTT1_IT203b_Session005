@@ -57,6 +57,7 @@ public class ProductSer {
                     ser.them(p);
                     break;
                 case 2:
+                    ser.hienThi();
                     break;
                 case 3:
                     break;
